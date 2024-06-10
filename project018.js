@@ -1,0 +1,10 @@
+var visit_place = ["London", "Dubai", "Miami", "New YorkV", "Abu Dhabi"];
+console.log("Original Order : ".concat(visit_place));
+console.log("Alphabetical : ".concat(visit_place.sort()));
+console.log("Original Order : ".concat(visit_place));
+console.log("Reverse Order : ".concat(visit_place.reverse()));
+console.log("Original Order : ".concat(visit_place));
+var visit_place_sort = visit_place.reverse();
+console.log("Reverse Order : ".concat(visit_place.reverse()));
+var visit_place_sort = visit_place.sort();
+var visit_place = visit_place.sort();
